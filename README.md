@@ -1,4 +1,4 @@
-![Shark attacks, a project by Roberto Henríquez Perozo. Data Analytics Bootcamp at IronHack](shark-attacks.png)
+![Shark attacks, a project by Roberto Henríquez Perozo. Data Analytics Bootcamp at IronHack](/INPUT/shark-attacks.png)
 # Shark-attacks 
   First project for IronHack Data Analytics Bootcamp
 
