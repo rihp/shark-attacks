@@ -20,7 +20,9 @@
 
 ## 🦈️ Main Hypothesis
 
-- The 5 species with the most registered attacks have a higher *fatalities/survivals ratio* when these attacks are 'PROVOKED' by the victims.
+- **The 5 species with the most registered attacks have a higher *fatalities/survivals ratio* when these attacks are 'PROVOKED' by the victims.**
+
+### Other possible hypothesis to consider:
 
 - The 5 species with the most registered attacks have a similar *fatalities/survivals ratio*
 
