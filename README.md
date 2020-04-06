@@ -5,13 +5,13 @@ First project for IronHack Data Analytics Bootcamp
 With the use of `Python 3`, and the modules `pandas`, `numpy` and `matplotlib`, I have tried to clean the shark-attacks dataset from Kaggle, and generated a cleaner and categorized dataset which can be found on the `/OUTPUT` directory, along with the graphs generated with `matplotlib`.
 
 
-Possible Hypothesis:
+**Possible Hypothesis:**
 
-- The 5 species with the most registered attacks have a similar fatalities/survivals ratio
+- The 5 species with the most registered attacks have a similar *fatalities/survivals ratio*
 
-- The activities with the most registered attacks have a very different fatalities/survivals ratio
+- The activities with the most registered attacks have a very different *fatalities/survivals ratio*
 
-- The 'Provoked attacks? have a higher fatalities/survivals ratio than the 'Unprovoked attacks'
+- The 'Provoked attacks? have a higher *fatalities/survivals ratio* than the 'Unprovoked attacks'
 
 - Fishers and Surfers have less 'Provoked attacks' than other victims.
 
